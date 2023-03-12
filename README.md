@@ -13,3 +13,6 @@ or
     cd sedtris-main/
     chmod +x sedtris.sh
     ./sedtris.sh
+
+
+https://libregamewiki.org/Sedtris
