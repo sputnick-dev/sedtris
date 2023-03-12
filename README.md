@@ -15,4 +15,5 @@ or
     ./sedtris.sh
 
 
-https://libregamewiki.org/Sedtris
+https://libregamewiki.org/Sedtris    
+backup: https://web.archive.org/web/20221224195401/https://libregamewiki.org/Sedtris
